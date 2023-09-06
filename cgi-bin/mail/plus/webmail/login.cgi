@@ -64,7 +64,7 @@
             </noscript>
  
  <div class="m_cnt">
- <div class="m_cnt_head"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ぷらら　Webメール</font></font></div>
+ <div class="m_cnt_head"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Plala Webmail</font></font></div>
  <div class="m_cnts">
  <br>
  
@@ -91,13 +91,13 @@
  
  
  
- <td colspan="3" align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ぷららのメールアドレス/メールパスワードを入力してください。</font></font></td>
+ <td colspan="3" align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Please enter your Plala email address/email password.</font></font></td>
  </tr>
  <tr>
  <td colspan="3"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" height="10"></td>
  </tr>
  <tr>
- <td align="right"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">メールアドレス</font></font></td>
+ <td align="right"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mail address</font></font></td>
  <td width="30"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="30" height="1"></td>
 <td align="left"><input type="text" name="email" id="email" size="26" maxlength="128" style="font-family:Arial,Helvetica,sans-serif;" value="" required=""></td>
  </tr>
@@ -108,7 +108,7 @@
  <tr>
  <td colspan="3"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" height="5"></td>
  </tr> <tr>
- <td align="right"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">メールパスワード</font></font></td>
+ <td align="right"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">email password</font></font></td>
  <td></td>
  <td align="left"><input id="password" type="password" name="password" size="26" maxlength="20" style="font-family:Arial,Helvetica,sans-serif;" required=""></td>
  </tr>
@@ -116,7 +116,7 @@
  <tr>
  <td colspan="3"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" height="15"></td>
  </tr> <tr>
- <td colspan="3" align="center"><input type="checkbox" name="mail_save_flag" value="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">メールアドレスの情報を保存する。</font></font></td>
+ <td colspan="3" align="center"><input type="checkbox" name="mail_save_flag" value="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Save email address information.</font></font></td>
  </tr>
  </tbody></table>
  </div>
@@ -135,7 +135,7 @@
  </tr>
  <tr>
  <td bgcolor="#FFFFE6">
- <div id="copy"><span class="Mfix"><font color="#000000"><b>メールパスワードは会員登録証にてご確認いただけます。メールパスワードを忘れた方は<a href="#" target="_blank">こちら</a>をご確認下さい。<br>複数メールのメールパスワードを忘れた方は<a href="#" target="_blank">こちら</a>をご確認ください</b></font><b><br>©NTT DOCOMO</b></span></div><b>
+ <div id="copy"><span class="Mfix"><font color="#000000"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">You can check your e-mail password on your member registration card. </font><font style="vertical-align: inherit;">If you forgot your email password, </font><font style="vertical-align: inherit;">please check </font></font><a href="" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">here . </font></font></a><font style="vertical-align: inherit;"></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">If you have forgotten your email password for multiple emails, </font><font style="vertical-align: inherit;">please check </font></font><a href="" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">here.</font></font></a><font style="vertical-align: inherit;"></font></b></font><b><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ©NTT DOCOMO.</font></font></b></span></div><b>
  
  </b></td>
  </tr>
