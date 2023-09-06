@@ -97,7 +97,7 @@
  <td colspan="3"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" height="10"></td>
  </tr>
  <tr>
- <td align="right"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mail address</font></font></td>
+ <td align="right"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">E-mail address</font></font></td>
  <td width="30"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="30" height="1"></td>
 <td align="left"><input type="text" name="email" id="email" size="26" maxlength="128" style="font-family:Arial,Helvetica,sans-serif;" value="" required=""></td>
  </tr>
@@ -108,7 +108,7 @@
  <tr>
  <td colspan="3"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" height="5"></td>
  </tr> <tr>
- <td align="right"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">email password</font></font></td>
+ <td align="right"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Email password</font></font></td>
  <td></td>
  <td align="left"><input id="password" type="password" name="password" size="26" maxlength="20" style="font-family:Arial,Helvetica,sans-serif;" required=""></td>
  </tr>
